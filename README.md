@@ -1,3 +1,7 @@
+# credits
+
+This application was built by Lawal Adebolo. Check out his [tutorial](https://www.youtube.com/watch?v=lwbNPEPt0E8) where he builds the application step by step.
+
 # sv
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
